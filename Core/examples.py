@@ -34,7 +34,7 @@ This Command Better than firs comand and this take many minute to stop :)
 Use This Command for Bypass Website Bloked attack and to hedding you Ip Addr
 ==================================================
 
-[#] So You Have 3 Command To Use
+[#] So You Have 3 Command You Can Use:
 
 1> python CPFinder.py -w target website
 2> python CPFinder.py -w target website -c page source code
